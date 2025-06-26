@@ -1,6 +1,6 @@
-# QueryPDF
+# SmartPDFai
 
-Welcome to the QueryPDF! This project aims to create a full-stack application that allows users to upload PDF documents, ask questions about their content, and receive answers generated through natural language processing. Below are the setup instructions, API documentation, and an overview of the application architecture.
+Welcome ! This project aims to create a full-stack application that allows users to upload PDF documents, ask questions about their content, and receive answers generated through natural language processing. Below are the setup instructions, API documentation, and an overview of the application architecture.
 
 ## Setup Instructions
 
